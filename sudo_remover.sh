@@ -13,6 +13,7 @@ sudo rm -rf ~/Library/Google/Google\ Chrome*
 # about keystone
 sudo rm ~/Library/LaunchAgents/com.google.keystone.agent.plist
 sudo rm ~/Library/Preferences/com.google.Keystone.Agent.plist
+sudo rm ~/Library/Google/Google\ Chrome\ Brand.plist
 sudo rm -rf ~/Library/Caches/com.google.Keystone*
 sudo rm -rf ~/Library/Caches/com.google.SoftwareUpdate
 sudo rm -rf ~/Library/Application\ Support/Google/RLZ
