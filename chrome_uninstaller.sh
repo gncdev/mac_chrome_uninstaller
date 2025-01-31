@@ -13,6 +13,7 @@ rm -rf ~/Library/Google/Google\ Chrome*
 # about keystone
 rm ~/Library/LaunchAgents/com.google.keystone.agent.plist
 rm ~/Library/Preferences/com.google.Keystone.Agent.plist
+rm ~/Library/Google/Google\ Chrome\ Brand.plist
 rm -rf ~/Library/Caches/com.google.Keystone*
 rm -rf ~/Library/Caches/com.google.SoftwareUpdate
 rm -rf ~/Library/Application\ Support/Google/RLZ
